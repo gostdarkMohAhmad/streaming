@@ -10,5 +10,4 @@ channel.send(`***الفلوووس تغير النفووس-ez-Credit-RedShadow***
 }, 25)
 })
  
- 
-client.login('process.env.BOT_TOKEN');
+ client.login(process.env.BOT_TOKEN);
